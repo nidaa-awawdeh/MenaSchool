@@ -77,6 +77,19 @@ button:hover {
   color: #fff;
 }
 
+/* Exercise 2 */
+.Donat_bike{
+  background-color:#c05326;
+}
+
+.Volunteer-button{
+  background-color:white;
+  color:#c05326;
+    border-color:black;
+  border-width:2px;
+  border-style:solid;
+}
+
 /* Headings */
 
 .heading-underline {
